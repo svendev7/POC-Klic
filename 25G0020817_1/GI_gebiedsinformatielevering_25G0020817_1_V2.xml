@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?><gml:FeatureCollection gml:id="gil_2106abe5-657a-45bc-a82c-50493d18fa8c" xsi:schemaLocation="http://www.geostandaarden.nl/imkl/wibon http://register.geostandaarden.nl/gmlapplicatieschema/imkl/2.0.0/imkl-wibon.xsd" xmlns:us-net-sw="http://inspire.ec.europa.eu/schemas/us-net-sw/4.0" xmlns:us-net-el="http://inspire.ec.europa.eu/schemas/us-net-el/4.0" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:us-net-wa="http://inspire.ec.europa.eu/schemas/us-net-wa/4.0" xmlns:gmlexr="http://www.opengis.net/gml/3.3/exr" xmlns:us-net-tc="http://inspire.ec.europa.eu/schemas/us-net-tc/4.0" xmlns:us-net-ogc="http://inspire.ec.europa.eu/schemas/us-net-ogc/4.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:us-net-th="http://inspire.ec.europa.eu/schemas/us-net-th/4.0" xmlns:base2="http://inspire.ec.europa.eu/schemas/base2/2.0" xmlns:imkl="http://www.geostandaarden.nl/imkl/wibon" xmlns:us-net-common="http://inspire.ec.europa.eu/schemas/us-net-common/4.0" xmlns:net="http://inspire.ec.europa.eu/schemas/net/4.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:base="http://inspire.ec.europa.eu/schemas/base/3.3">
+    <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::28992" srsDimension="2">
+            <gml:lowerCorner>89978.0 435193.0</gml:lowerCorner>
+            <gml:upperCorner>90479.0 435615.0</gml:upperCorner>
+        </gml:Envelope>
+    </gml:boundedBy>
+    <gml:featureMember>
+        <imkl:GebiedsinformatieLevering gml:id="nl.imkl-KA0000._GebiedsinformatieLevering_25G0020817-1">
+            <imkl:identificatie>
+                <imkl:NEN3610ID>
+                    <imkl:namespace>nl.imkl</imkl:namespace>
+                    <imkl:lokaalID>KA0000._GebiedsinformatieLevering_25G0020817</imkl:lokaalID>
+                    <imkl:versie>1</imkl:versie>
+                </imkl:NEN3610ID>
+            </imkl:identificatie>
+            <imkl:beginLifespanVersion>2025-03-16T04:04:30.515+01:00</imkl:beginLifespanVersion>
+            <imkl:leveringsvolgnummer>1</imkl:leveringsvolgnummer>
+            <imkl:datumLeveringSamengesteld>2025-03-16T04:04:30.515+01:00</imkl:datumLeveringSamengesteld>
+            <imkl:indicatieLeveringCompleet>false</imkl:indicatieLeveringCompleet>
+            <imkl:achtergrondkaart>
+                <imkl:Achtergrondkaart>
+                    <imkl:achtergrondkaartSoort xlink:href="http://definities.geostandaarden.nl/imkl2015/id/waarde/AchtergrondkaartSoortValue/bgtRaster"/>
+                    <imkl:kaartreferentie>bronnen/GB_25G0020817.png</imkl:kaartreferentie>
+                </imkl:Achtergrondkaart>
+            </imkl:achtergrondkaart>
+            <imkl:belanghebbende xlink:href="nl.imkl-TS1381._Belanghebbende_25G0020817-0"/>
+            <imkl:aanvraag xlink:href="nl.imkl-KA0000._GebiedsinformatieAanvraag_25G0020817"/>
+        </imkl:GebiedsinformatieLevering>
+    </gml:featureMember>
+    <gml:featureMember>
+        <imkl:GebiedsinformatieAanvraag gml:id="nl.imkl-KA0000._GebiedsinformatieAanvraag_25G0020817">
+            <imkl:identificatie>
+                <imkl:NEN3610ID>
+                    <imkl:namespace>nl.imkl</imkl:namespace>
+                    <imkl:lokaalID>KA0000._GebiedsinformatieAanvraag_25G0020817</imkl:lokaalID>
+                </imkl:NEN3610ID>
+            </imkl:identificatie>
+            <imkl:beginLifespanVersion>2025-03-14T13:32:26.000+01:00</imkl:beginLifespanVersion>
+            <imkl:ordernummer>9807363738</imkl:ordernummer>
+            <imkl:positienummer>0000000010</imkl:positienummer>
+            <imkl:klicMeldnummer>25G0020817</imkl:klicMeldnummer>
+            <imkl:aanvrager>
+                <imkl:Aanvrager>
+                    <imkl:contactpersoon>
+                        <imkl:Contact>
+                            <imkl:naam>BMK FTO Grondroerder02</imkl:naam>
+                            <imkl:telefoon>0681234567</imkl:telefoon>
+                            <imkl:email>klic.testers@kadaster.nl</imkl:email>
+                        </imkl:Contact>
+                    </imkl:contactpersoon>
+                    <imkl:organisatie>
+                        <imkl:Organisatie>
+                            <imkl:naam>FTO Grondroerder02</imkl:naam>
+                            <imkl:kvkNummer>12345678</imkl:kvkNummer>
+                            <imkl:bezoekAdres>
+                                <imkl:Adres>
+                                    <imkl:BAGid>0344200000084855</imkl:BAGid>
+                                    <imkl:openbareRuimteNaam>Demkaweg</imkl:openbareRuimteNaam>
+                                    <imkl:huisnummer>11</imkl:huisnummer>
+                                    <imkl:huisnummertoevoeging>A A</imkl:huisnummertoevoeging>
+                                    <imkl:woonplaatsNaam>UTRECHT</imkl:woonplaatsNaam>
+                                    <imkl:postcode>3555 HW</imkl:postcode>
+                                    <imkl:landcode xlink:href="http://publications.europa.eu/resource/authority/country/NLD"/>
+                                </imkl:Adres>
+                            </imkl:bezoekAdres>
+                        </imkl:Organisatie>
+                    </imkl:organisatie>
+                    <imkl:extraContact>
+                        <imkl:Contact>
+                            <imkl:email>sven.groot@kadaster.nl</imkl:email>
+                        </imkl:Contact>
+                    </imkl:extraContact>
+                </imkl:Aanvrager>
+            </imkl:aanvrager>
+            <imkl:referentie>Rotterdam Delfshaven</imkl:referentie>
+            <imkl:opdrachtgever>
+                <imkl:Opdrachtgever>
+                    <imkl:contactpersoon>
+                        <imkl:Contact>
+                            <imkl:naam>BMK FTO Grondroerder02</imkl:naam>
+                            <imkl:telefoon>0681234567</imkl:telefoon>
+                            <imkl:email>klic.testers@kadaster.nl</imkl:email>
+                        </imkl:Contact>
+                    </imkl:contactpersoon>
+                    <imkl:organisatie>
+                        <imkl:Organisatie>
+                            <imkl:naam>FTO Grondroerder02</imkl:naam>
+                            <imkl:kvkNummer>12345678</imkl:kvkNummer>
+                            <imkl:bezoekAdres>
+                                <imkl:Adres>
+                                    <imkl:BAGid>0344200000084855</imkl:BAGid>
+                                    <imkl:openbareRuimteNaam>Demkaweg</imkl:openbareRuimteNaam>
+                                    <imkl:huisnummer>11</imkl:huisnummer>
+                                    <imkl:huisnummertoevoeging>A A</imkl:huisnummertoevoeging>
+                                    <imkl:woonplaatsNaam>UTRECHT</imkl:woonplaatsNaam>
+                                    <imkl:postcode>3555 HW</imkl:postcode>
+                                    <imkl:landcode xlink:href="http://publications.europa.eu/resource/authority/country/NLD"/>
+                                </imkl:Adres>
+                            </imkl:bezoekAdres>
+                        </imkl:Organisatie>
+                    </imkl:organisatie>
+                </imkl:Opdrachtgever>
+            </imkl:opdrachtgever>
+            <imkl:aanvraagSoort xlink:href="http://definities.geostandaarden.nl/imkl2015/id/waarde/AanvraagSoortValue/graafmelding"/>
+            <imkl:aanvraagDatum>2025-03-14T13:32:26.000+01:00</imkl:aanvraagDatum>
+            <imkl:soortWerkzaamheden xlink:href="http://definities.geostandaarden.nl/imkl2015/id/waarde/SoortWerkzaamhedenValue/gasleidingLeggen"/>
+            <imkl:soortWerkzaamheden xlink:href="http://definities.geostandaarden.nl/imkl2015/id/waarde/SoortWerkzaamhedenValue/heien"/>
+            <imkl:soortWerkzaamheden xlink:href="http://definities.geostandaarden.nl/imkl2015/id/waarde/SoortWerkzaamhedenValue/sloopwerkzaamheden"/>
+            <imkl:locatieWerkzaamheden>
+                <imkl:Adres>
+                    <imkl:BAGid>0599010000106369</imkl:BAGid>
+                    <imkl:openbareRuimteNaam>Japarastraat</imkl:openbareRuimteNaam>
+                    <imkl:huisnummer>9</imkl:huisnummer>
+                    <imkl:woonplaatsNaam>Rotterdam</imkl:woonplaatsNaam>
+                    <imkl:postcode>3029NB</imkl:postcode>
+                    <imkl:landcode xlink:href="http://publications.europa.eu/resource/authority/country/NLD"/>
+                </imkl:Adres>
+            </imkl:locatieWerkzaamheden>
+            <imkl:startDatum>2025-03-28</imkl:startDatum>
+            <imkl:eindDatum>2025-03-30</imkl:eindDatum>
+            <imkl:graafpolygoon xlink:href="nl.imkl-KA0000._Graafpolygoon_25G0020817"/>
+        </imkl:GebiedsinformatieAanvraag>
+    </gml:featureMember>
+    <gml:featureMember>
+        <imkl:Graafpolygoon gml:id="nl.imkl-KA0000._Graafpolygoon_25G0020817">
+            <imkl:identificatie>
+                <imkl:NEN3610ID>
+                    <imkl:namespace>nl.imkl</imkl:namespace>
+                    <imkl:lokaalID>KA0000._Graafpolygoon_25G0020817</imkl:lokaalID>
+                </imkl:NEN3610ID>
+            </imkl:identificatie>
+            <imkl:beginLifespanVersion>2025-03-14T13:32:26.000+01:00</imkl:beginLifespanVersion>
+            <imkl:geometrie>
+                <gml:Polygon srsName="urn:ogc:def:crs:EPSG::28992" srsDimension="2" gml:id="nl.imkl-KA0000._Graafpolygoon_25G0020817_geo">
+                    <gml:exterior>
+                        <gml:LinearRing>
+                            <gml:posList>90478.604 435474.339 90395.32 435486.695 90207.333 435576.975 90205.591 435577.621 90066.927 435614.891 90054.646 435607.883 89978.604 435332.087 89985.688 435319.767 90461.32 435193.05 90467.06 435193.217 90478.604 435197.027 90478.604 435474.339</gml:posList>
+                        </gml:LinearRing>
+                    </gml:exterior>
+                </gml:Polygon>
+            </imkl:geometrie>
+        </imkl:Graafpolygoon>
+    </gml:featureMember>
+    <gml:featureMember>
+        <imkl:Belanghebbende gml:id="nl.imkl-TS1381._Belanghebbende_25G0020817-0">
+            <imkl:identificatie>
+                <imkl:NEN3610ID>
+                    <imkl:namespace>nl.imkl</imkl:namespace>
+                    <imkl:lokaalID>TS1381._Belanghebbende_25G0020817</imkl:lokaalID>
+                    <imkl:versie>0</imkl:versie>
+                </imkl:NEN3610ID>
+            </imkl:identificatie>
+            <imkl:beginLifespanVersion>2025-03-14T13:35:35.000+01:00</imkl:beginLifespanVersion>
+            <imkl:beheerdersinformatieGeleverd>false</imkl:beheerdersinformatieGeleverd>
+            <imkl:geraaktBelangBijGraafpolygoon xlink:href="nl.imkl-TS1381._Belang_5016096-1"/>
+            <imkl:netbeheerder xlink:href="nl.imkl-TS1381._Beheerder"/>
+        </imkl:Belanghebbende>
+    </gml:featureMember>
+    <gml:featureMember>
+        <imkl:Belang gml:id="nl.imkl-TS1381._Belang_5016096-1">
+            <imkl:identificatie>
+                <imkl:NEN3610ID>
+                    <imkl:namespace>nl.imkl</imkl:namespace>
+                    <imkl:lokaalID>TS1381._Belang_5016096</imkl:lokaalID>
+                    <imkl:versie>1</imkl:versie>
+                </imkl:NEN3610ID>
+            </imkl:identificatie>
+            <imkl:beginLifespanVersion>2020-09-24T00:00:00.000+02:00</imkl:beginLifespanVersion>
+            <imkl:omschrijving>Rotterdam</imkl:omschrijving>
+            <imkl:contactAanvraag>
+                <imkl:AanvraagSoortContact>
+                    <imkl:aanvraagSoort xlink:href="http://definities.geostandaarden.nl/imkl2015/id/waarde/AanvraagSoortValue/graafmelding"/>
+                    <imkl:naam>BMK Netbeheerder 7</imkl:naam>
+                    <imkl:telefoon>0881234567</imkl:telefoon>
+                    <imkl:email>klic.testers@kadaster.nl</imkl:email>
+                </imkl:AanvraagSoortContact>
+            </imkl:contactAanvraag>
+            <imkl:thema xlink:href="http://definities.geostandaarden.nl/imkl2015/id/waarde/Thema/rioolOnderOverOfOnderdruk"/>
+            <imkl:contactNetinformatie>
+                <imkl:AanvraagSoortContact>
+                    <imkl:aanvraagSoort xlink:href="http://definities.geostandaarden.nl/imkl2015/id/waarde/AanvraagSoortValue/graafmelding"/>
+                </imkl:AanvraagSoortContact>
+            </imkl:contactNetinformatie>
+            <imkl:contactBeschadiging>
+                <imkl:Contact/>
+            </imkl:contactBeschadiging>
+        </imkl:Belang>
+    </gml:featureMember>
+    <gml:featureMember>
+        <imkl:Beheerder gml:id="nl.imkl-TS1381._Beheerder">
+            <imkl:identificatie>
+                <imkl:NEN3610ID>
+                    <imkl:namespace>nl.imkl</imkl:namespace>
+                    <imkl:lokaalID>TS1381._Beheerder</imkl:lokaalID>
+                </imkl:NEN3610ID>
+            </imkl:identificatie>
+            <imkl:beginLifespanVersion>2000-01-01T00:00:00.000+01:00</imkl:beginLifespanVersion>
+            <imkl:bronhoudercode>TS1381</imkl:bronhoudercode>
+            <imkl:websiteKlic>http://www.ts1381.nl</imkl:websiteKlic>
+            <imkl:organisatie>
+                <imkl:Organisatie>
+                    <imkl:naam>Netbeheerder Regressie05</imkl:naam>
+                    <imkl:naam>Afdeling Infra</imkl:naam>
+                    <imkl:kvkNummer>08215111</imkl:kvkNummer>
+                </imkl:Organisatie>
+            </imkl:organisatie>
+        </imkl:Beheerder>
+    </gml:featureMember>
+</gml:FeatureCollection>
